@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.hdfcbank.payzapp",
+  "target" : { "namespace": "android_app", "package_name": "com.hdfc.payzapp.lzuat",
                "sha256_cert_fingerprints": ["06:83:E4:60:DD:4C:99:63:7C:C1:0C:83:33:78:12:78:F1:AB:1F:E5:52:BC:E9:3B:E5:1F:63:5E:10:0B:2F:1C"] }
 }]
