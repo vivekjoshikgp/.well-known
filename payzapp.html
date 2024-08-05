@@ -169,7 +169,7 @@
         } else if (browser.isAndroid()) {
           url = getUrlWithQueryParams('market://details', urlParams);
           url =
-            'https://play.google.com/store/apps/details?id=com.hdfcbank.payzapp&referrer=' +
+            'market://details?id=com.hdfcbank.payzapp&referrer=' +
             link;
           analyticsData.platform = 'android';
         } else {
