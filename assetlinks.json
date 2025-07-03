@@ -1,5 +1,7 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.hdfc.payzapp.lzuat",
-               "sha256_cert_fingerprints": ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"] }
+               "sha256_cert_fingerprints": ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+                 "75:6C:EC:80:54:5C:07:DC:4A:21:74:DB:E0:87:CA:23:D3:6E:E4:97:34:1B:06:A8:A2:0C:68:BA:E3:A4:12:E5"
+               ] }
 }]
